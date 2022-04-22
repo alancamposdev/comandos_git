@@ -1,10 +1,10 @@
-# Comandos git    <img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="logo git" style="zoom:8%;" />
+# Comandos git    <img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="logo git" style="width:6%;" />
 
 
 
 ### Comandos de configurações iniciais
-| comandos globais| função | 
-| ---| --- |
+|🔸Comandos globais| função | 
+| :---| --- |
 | git config --global user.name "seuNome"| configura um nome de usuário|
 | git config --global user.email "seuEmail"|configura um email de usuário|
 | git config --global core.editor "code --wait" | o editor de texto padrão do git é o VIM, caso queira mudar pro VSCode| 
@@ -20,7 +20,7 @@
 
 ### Os três estagios do git
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D7nJOADN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/569e7f0bbfaf/download/Image%25202018-08-29%2520at%25208.26.35%2520PM.png" style="zoom:25%;" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D7nJOADN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/569e7f0bbfaf/download/Image%25202018-08-29%2520at%25208.26.35%2520PM.png" style="width:30%;" />
 
 | Diretório de trabalho  | área de preparo/espera | repositório |
 
