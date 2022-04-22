@@ -71,5 +71,5 @@ git config --global alias.cm commit
 
 Nesse comando eu adicionei apelidos ao comando git status e git log. Substituindo o comando pelo apelido.
 
-Agora basta digitar `git st` e `git lg`  e `git cm` para que os comandos serão executados
+Agora basta digitar `git st` e `git lg`  e `git cm` que os comandos serão executados.
 
